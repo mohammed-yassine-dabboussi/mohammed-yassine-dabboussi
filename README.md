@@ -6,7 +6,7 @@
 Titulaire d’un diplôme en informatique et fraichement diplômé d’une formation de développement iOS de l’Apple foundation program.</br>
 Actuellement en formation BTS développement web et web mobile (Alternance titre RNCP, niveau 5) à La Plateforme et à la recherche d'une alternance.</p>
 - 👨‍💻 Portfolio: [https://mohammed-yassine-dabboussi.students-laplateforme.io/]</br>
-- 📰 Linkedin: []</br>
+- 📰 Linkedin: [https://www.linkedin.com/in/mohamed-yassine-dabboussi-a3397124b/]</br>
 - 📫 Me contacter: <b>medyassinedaboussi@gmail.com</b></br>
 - 📞 Mobile: +33 (0) 6 23 83 27 17 
 <h3 align="left">Connectez-vous avec moi:</h3>
