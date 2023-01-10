@@ -6,14 +6,15 @@
 Titulaire d’un diplôme en informatique et fraichement diplômé d’une formation de développement iOS de l’Apple foundation program.</br>
 Actuellement en formation BTS développement web et web mobile (Alternance titre RNCP, niveau 5) à La Plateforme et à la recherche d'une alternance.</p>
 - 👨‍💻 Portfolio: [https://mohammed-yassine-dabboussi.students-laplateforme.io/]</br>
-- 📫 Me contacter: <b>medyassinedaboussi@gmail.com</b>
-
-<h3 align="left">Connect with me:</h3>
+- 📰 Linkedin: []</br>
+- 📫 Me contacter: <b>medyassinedaboussi@gmail.com</b></br>
+- 📞 Mobile: +33 (0) 6 23 83 27 17 
+<h3 align="left">Connectez-vous avec moi:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mohamed-yassine-dabboussi-a3397124b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-yassine-dabboussi-a3397124b" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Compétences:</h3>
 <p align="left"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
