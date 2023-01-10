@@ -1,10 +1,13 @@
+<img align="center" alt="coding" src="https://media.licdn.com/dms/image/C4E16AQGF3ig7-ZTk8w/profile-displaybackgroundimage-shrink_350_1400/0/1668982189168?e=1678924800&v=beta&t=Z8nA2_QBe6ZAZRxZoeducLsLfHbwhk0eXtXImmHBfo8">
 <h1 align="center">Hi 👋, I'm Mohamed Yassine Dabboussi</h1>
-<h3 align="center">A passionate full stack developer</h3>
+<h3 align="center">Développeur web junior</h3>
 <img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<p>J'évolue dans le domaine de l’informatique depuis plusieurs années. J'ai occupé le poste de stagiaire au sein de différentes entreprises et sur des multiples sujets dans le domaine de développement web et mobile.
+Titulaire d’un diplôme en informatique et fraichement diplômé d’une formation de développement iOS de l’Apple foundation program.
+Actuellement en formation BTS développement web et web mobile (Alternance titre RNCP, niveau 5) à La Plateforme et à la recherche d'une alternance.</p>
+- 👨‍💻 Portfolio: [https://mohammed-yassine-dabboussi.students-laplateforme.io/](https://mohammed-yassine-dabboussi.students-laplateforme.io/)
 
-- 👨‍💻 All of my projects are available at [https://mohammed-yassine-dabboussi.students-laplateforme.io/](https://mohammed-yassine-dabboussi.students-laplateforme.io/)
-
-- 📫 How to reach me **medyassinedaboussi@gmail.com**
+- 📫 Me contacter: **medyassinedaboussi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
